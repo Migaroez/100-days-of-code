@@ -1,30 +1,32 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 28, 2018
+##### Basic setup and prepping for the real work
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- Got the repo setup
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 3th day of vacation and I'm starting to get bored... Lets do some experimental coding? I Have a plan to work out the spell weaving system that has been brewing in my head since January 20th 2017, time to stop procrastinating and finally make a prototype and even a game around it.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Demo not yet available
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: July 29, 2018
+##### Easier than I thought (4h+)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+- Implemented a custom inputmanager by quil18creates (https://www.youtube.com/watch?v=iSxifRKQKAA). Improved it and made it save/load to file.
+- Got the spell weaving system working, including slots to use completed weaves as a component in another weave
+- Implemented a cool event system by FuzzyHobo https://github.com/FuzzyHobo/UnityCallbackAndEventTutorial
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Getting the (basic) spell weaving system to work the way I had imangined it, went way easier than I had anticipated, mulling it over in your head for more than a year seems to have some benefits. Rubber ducking to my helpfull sister in law certainly helped aswell.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** Demo not yet available
 
+### Day 2: July 30, 2018
+##### Dealing with missing features due to work habbits (
 
-### Day 1: June 27, Monday
+**Today's Progress**: Added a manual resolve custom IoC container
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: I really missed the functions IoC and dependcy injection add the last fjew times I tried to get something done in Unity, so today I applied some of the knowledge I gathered from working as a 'real' software developer for the last 2 years to my hobby of game development. Alot of work is left to be done, but the progress today is a good start.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: Demo not yet available
