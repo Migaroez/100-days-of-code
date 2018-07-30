@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 28, 2018
-##### Basic setup and prepping for the real work
+##### Basic setup and prepping for the real work (2h)
 
 **Today's Progress**:
 - Got the repo setup
 
-**Thoughts:** 3th day of vacation and I'm starting to get bored... Lets do some experimental coding? I Have a plan to work out the spell weaving system that has been brewing in my head since January 20th 2017, time to stop procrastinating and finally make a prototype and even a game around it.
+**Thoughts:** 3th day of vacation and I'm starting to get bored... Time for some experimental coding? I Have a spell weaving system that has been brewing in my head since January 20th 2017, time to stop procrastinating and finally make a prototype and even a game around it.
 
 **Link to work:** Demo not yet available
 
@@ -23,10 +23,10 @@
 **Link to work:** Demo not yet available
 
 ### Day 2: July 30, 2018
-##### Dealing with missing features due to work habbits (
+##### Dealing with missing features due to work habbits (2h)
 
-**Today's Progress**: Added a manual resolve custom IoC container
+**Today's Progress**: Added a manual register/resolve custom IoC container
 
-**Thoughts**: I really missed the functions IoC and dependcy injection add the last fjew times I tried to get something done in Unity, so today I applied some of the knowledge I gathered from working as a 'real' software developer for the last 2 years to my hobby of game development. Alot of work is left to be done, but the progress today is a good start.
+**Thoughts**: I really missed the functions IoC and dependcy injection give you the last fjew times I tried to get something done in Unity, so today I applied some of the knowledge I gathered from working as a 'real' software developer for the last 2 years to my hobby of game development. Alot of work is left to be done, but the progress today is a good start.
 
 **Link(s) to work**: Demo not yet available
